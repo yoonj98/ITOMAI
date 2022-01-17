@@ -4,8 +4,8 @@
 - 16기 : 김경준
 
 ## Presentation
-* [![GoogleDrive Badge](https://img.shields.io/badge/Presentation-405263?style=flat-square&logo=Quip&link=https://drive.google.com/file/d/10DF3kdtgeBIle0nqUMK3Oc6JAfF91o73/view?usp=sharing)](https://drive.google.com/file/d/10DF3kdtgeBIle0nqUMK3Oc6JAfF91o73/view?usp=sharing)
-* [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://youtu.be/F0imSPRpBQM)](https://youtu.be/F0imSPRpBQM)
+[![GoogleDrive Badge](https://img.shields.io/badge/Presentation-405263?style=flat-square&logo=Quip&link=https://drive.google.com/file/d/10DF3kdtgeBIle0nqUMK3Oc6JAfF91o73/view?usp=sharing)](https://drive.google.com/file/d/10DF3kdtgeBIle0nqUMK3Oc6JAfF91o73/view?usp=sharing)
+[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://youtu.be/F0imSPRpBQM)](https://youtu.be/F0imSPRpBQM)
 
 
 ## IDEA
