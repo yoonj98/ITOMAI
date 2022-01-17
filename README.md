@@ -3,6 +3,12 @@
 - 15기 : 김현지, 박진수, 오주영, 이윤정
 - 16기 : 김경준
 
+## Presentation
+저희 프로젝트에 대해 자세하게 알고 싶으시다면, 프로젝트 설명자료를 참고해주세요. 
+* [![GoogleDrive Badge](https://img.shields.io/badge/Presentation-405263?style=flat-square&logo=Quip&link=https://drive.google.com/file/d/10DF3kdtgeBIle0nqUMK3Oc6JAfF91o73/view?usp=sharing)](https://drive.google.com/file/d/10DF3kdtgeBIle0nqUMK3Oc6JAfF91o73/view?usp=sharing)
+* [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://youtu.be/KPS1sD_lcMc)](https://youtu.be/cVN_AV9PVBY)
+
+
 ## IDEA
 <img width="852" alt="image" src="https://user-images.githubusercontent.com/71121461/149619636-6ecadba0-119e-468b-95a7-9305d9ffdc68.png">
 
